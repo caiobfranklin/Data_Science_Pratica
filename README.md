@@ -20,6 +20,7 @@ Sou um curioso nato e venho me dedicado ao aprendizado de ciências de dados e a
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Veja os trabalhos publicados:
 
+* **Analizando os dados do Airbnb na cidade de Amsterdam:** 
 ---
